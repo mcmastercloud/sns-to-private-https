@@ -1,0 +1,7 @@
+encryptionsalt: v1:WzNt7B4H7Bc=:v1:hIrH2N5k7yuEL3L/:E2g3IcN5hQS20txyEucFB+RU0jkLOg==
+config:
+  sqs-https:accountId: "108949145303"
+  sqs-https:privateSubnetTagName: type
+  sqs-https:privateSubnetTagValue: PRIVATE
+  sqs-https:region: us-east-1
+  sqs-https:vpcName: MainVpc

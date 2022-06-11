@@ -26,10 +26,6 @@ package-lock.json
 target/
 dist/
 
-# Typescript Runtime files
-*.js
-*.js.map
-
 # git
 .git/
 

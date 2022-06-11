@@ -1,0 +1,3 @@
+name: sqs-https
+runtime: nodejs
+description: Example for connecting SQS to a Private HTTPs Endpoint

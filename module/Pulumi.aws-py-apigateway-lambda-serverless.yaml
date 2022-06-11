@@ -1,0 +1,4 @@
+encryptionsalt: v1:R1qjzMA7rHw=:v1:kunxrwM4exe7gARd:L7a6FkXSaqIWBISBdLHq7b8yQSlBSg==
+config:
+  sqs-https:accountId: "356123681166"
+  sqs-https:region: us-east-1
